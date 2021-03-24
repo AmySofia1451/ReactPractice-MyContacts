@@ -1,2 +1,2 @@
-# ReactPractice-MyContacts
+# ReactPropsPractice-Contacts
 Created with CodeSandbox
